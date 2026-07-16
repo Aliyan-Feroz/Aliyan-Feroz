@@ -1,5 +1,5 @@
 # Hi there, I'm Aliyan Feroz! 👋 
-<!-- Animated/Modern Banner Placeholder -->
+<!-- Animated/Modern Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;C%2B%2B+%26+Embedded+Systems;Hardware+Hacker+%26+Modder;Building+Smart+Rider+Safety" alt="Typing SVG" />
 </p>
@@ -17,7 +17,7 @@
 
 I am a **Software Engineering undergraduate** at *The University of Lahore* with a deep obsession for bringing software to life through physical hardware. From optimizing low-level algorithms in **C++** to diagnostic soldering on microcontrollers and building customized gyro peripherals, I love operating at the intersection of bits and solder.
 
-- 🛠️ **Current Focus:** Building client-side schedulers and optimizing hardware simulator scoreboards.
+- 🛠️ **Current Focus:** Building client-side schedulers and optimizing custom software utilities.
 - 👾 **Hobbies:** PC hardware modding, local audio workflows (revisiting local Opus library playback), and diving into tactical/open-world games.
 - ⚡ **Fun Fact:** I once revived a damaged 12V power supply by desoldering and replacing its dual Schottky diode rectifier!
 
@@ -39,40 +39,38 @@ I am a **Software Engineering undergraduate** at *The University of Lahore* with
 
 ---
 
-### 🚀 Highlighted Hardware & Software Projects
+### 🚀 Featured Engineering Projects
+
+#### 📈 [CGPA Recovery & Academic Planner](https://github.com/Aliyan-Feroz/cgpa-recovery-planner)
+> A sophisticated, highly optimized C++ CLI application designed to reverse-engineer your academic target milestones. Instead of simple, passive calculation, it features a proactive **GPA Forecasting Engine** and custom algorithms that map out exact semester-by-semester GPA trajectories required to achieve a desired graduating CGPA. 
+* Built with a robust CLI terminal UI, maintaining high performance and optimized memory management by strictly utilizing standard input-output streams.
+* Implements dynamic recovery analysis, offering automated recommendations based on remaining semester credit hours.
+* **Tech Used:** `C++ (Standard Library)`, `Algorithms`, `Terminal UI`
 
 #### 🎮 [DIY Gyro-Based Lightgun](https://github.com/Aliyan-Feroz)
-> A hardware gaming input built by direct-pin-pad soldering a USB mouse cable onto an Arduino Nano clone, combined with an **MPU-6050** gyro sensor to play on-rail shooters.
+> A physical hardware gaming input built by direct-pin-pad soldering a USB mouse cable onto an Arduino Nano clone, combined with an **MPU-6050** gyro sensor to play retro on-rail arcade shooters.
 - **Tech Used:** `Arduino`, `MPU-6050 Gyro`, `Diagnostic Soldering`, `C++`
 
-#### 🎯 [Laser Aim Shooting Simulator](https://github.com/Aliyan-Feroz)
-> An interactive target layout built with an **ESP32**, **64 multiplexed LDR sensors** mapped via CD4051 and 74HC4067 multiplexer ICs, and an offline local captive portal web server for live scorecard generation.
-- **Tech Used:** `ESP32`, `C++`, `Analog Electronics (Multiplexers)`
-
 #### 🏍️ [Smart Rider Safety System](https://github.com/Aliyan-Feroz)
-> An integrated twin-Arduino safety model with an ignition interlock system linked wirelessly between a smart helmet and a bike using a **433MHz RF wireless module** alongside ultrasonic sensors.
+> An integrated twin-Arduino safety model with an ignition interlock system linked wirelessly between a smart helmet and a bike using a **433MHz RF wireless module** alongside ultrasonic proximity sensors.
 - **Tech Used:** `Arduino`, `RF 433MHz`, `Ultrasonic Sensors`, `Embedded C++`
-
-#### 📈 [CGPA Recovery & Academic Planner](https://github.com/Aliyan-Feroz)
-> A custom C++ command-line terminal application featuring a dynamic academic recovery planner and a GPA forecasting engine.
-- **Tech Used:** `C++ Standard Library`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aliyan-Feroz&show_icons=true&theme=tokyonight&count_private=true" alt="Aliyan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyan-Feroz&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aliyan-Feroz&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" alt="Aliyan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyan-Feroz&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=86400" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-- 💻 **GitHub Profile:** [github.com/Aliyan-Feroz](https://github.com/Aliyan-Feroz)
+- 💻 **GitHub Profile:** [github.com/Aliyan-Feroz](https://github.com/Aliyan-Feroz)[cite: 1]
 - 🏢 **University:** BS Software Engineering Student @ University of Lahore (UOL)
 
 <p align="center">
-  <img src="https://komarev.com/normal-badge.png?id=Aliyan-Feroz&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-Welcome-00F2FE?style=flat-square" alt="Profile Views" />
 </p>
