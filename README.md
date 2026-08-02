@@ -2,17 +2,17 @@
 
 <!-- Dynamic Animated Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+%26+Utility+Developer;Embedded+Systems+%26+Hardware+Hacker;Building+Practical+Problem-Solving+Apps" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;C%2B%2B+%26+Embedded+Systems;Hardware+Hacker+%26+Modder;Building+Smart+Rider+Safety" alt="Typing Header" />
 </p>
 
 <!-- Profile Status Badges -->
 <p align="center">
   <a href="https://github.com/Aliyan-Feroz">
-  <img src="https://img.shields.io/github/followers/Aliyan-Feroz?label=Followers&style=for-the- 
-    badge&color=008080&labelColor=181717&logo=github&logoColor=white" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Aliyan-Feroz?label=Followers&style=for-the-badge&color=0066FF&labelColor=181717&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
   <img src="https://img.shields.io/badge/Status-Building-00C853?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Software%20App%20Dev%20%26%20Hardware-00D2FF?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Software%20App%20Dev%20%26%20Hardware-00D2FF?style=for-the-badge&logo=microchip&logoColor=white" alt="Focus" />
+</p>
 </p>
 
 ---
@@ -92,8 +92,8 @@ I am a **Software Engineering undergraduate** at *The University of Lahore (Sgd 
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aliyan-Feroz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Aliyan's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aliyan-Feroz&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aliyan-Feroz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Aliyan's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aliyan-Feroz&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&card_width=400" width="49%" alt="Top Languages" />
 </p>
 
 ---
