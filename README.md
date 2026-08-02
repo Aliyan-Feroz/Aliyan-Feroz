@@ -8,7 +8,8 @@
 <!-- Profile Status Badges -->
 <p align="center">
   <a href="https://github.com/Aliyan-Feroz">
-    <img src="https://img.shields.io/github/followers/Aliyan-Feroz?label=Followers&style=for-the-badge&color=00F2FE&logo=github&logoColor=white" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/Aliyan-Feroz?label=Followers&style=for-the- 
+    badge&color=008080&labelColor=181717&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
   <img src="https://img.shields.io/badge/Status-Building-00C853?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Software%20App%20Dev%20%26%20Hardware-00D2FF?style=for-the-badge&logo=codefactor&logoColor=white" alt="Focus" />
@@ -91,8 +92,8 @@ I am a **Software Engineering undergraduate** at *The University of Lahore (Sgd 
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aliyan-Feroz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" width="48%" alt="Aliyan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyan-Feroz&layout=compact&theme=tokyonight&hide_border=true&v=1" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aliyan-Feroz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Aliyan's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aliyan-Feroz&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" alt="Top Languages" />
 </p>
 
 ---
