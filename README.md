@@ -91,9 +91,8 @@ I am a **Software Engineering undergraduate** at *The University of Lahore (Sgd 
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Aliyan-Feroz?style=for-the-badge&logo=github&color=00F2FE" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Aliyan-Feroz?style=for-the-badge&logo=github&color=00C853" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-size/Aliyan-Feroz/cgpa-recovery-planner?style=for-the-badge&logo=c%2B%2B&color=00D2FF" alt="Repo Size" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aliyan-Feroz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" width="48%" alt="Aliyan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyan-Feroz&layout=compact&theme=tokyonight&hide_border=true&v=1" width="48%" alt="Top Languages" />
 </p>
 
 ---
