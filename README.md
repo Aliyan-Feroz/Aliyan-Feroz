@@ -91,8 +91,8 @@ I am a **Software Engineering undergraduate** at *The University of Lahore (Sgd 
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aliyan-Feroz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Aliyan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyan-Feroz&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-two.vercel.app/api?username=Aliyan-Feroz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Aliyan's GitHub Stats" />
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=Aliyan-Feroz&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" alt="Top Languages" />
 </p>
 
 ---
