@@ -1,76 +1,39 @@
-# Hi there, I'm Aliyan Feroz! 👋 
-<!-- Animated/Modern Banner -->
+# Hi there, I'm Aliyan Feroz! 👋
+
+<!-- Dynamic Animated Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;C%2B%2B+%26+Embedded+Systems;Hardware+Hacker+%26+Modder;Building+Smart+Rider+Safety" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;C%2B%2B+%26+Embedded+Systems;Hardware+Hacker+%26+Modder;Building+Smart+Rider+Safety" alt="Typing Header" />
 </p>
 
+<!-- Profile Status Badges -->
 <p align="center">
   <a href="https://github.com/Aliyan-Feroz">
-    <img src="https://img.shields.io/github/followers/Aliyan-Feroz?label=Followers&style=for-the-badge&color=00F2FE&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Aliyan-Feroz?label=Followers&style=for-the-badge&color=00F2FE&logo=github&logoColor=white" alt="GitHub Followers" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Building-brightgreen?style=for-the-badge&logo=git" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Building-00C853?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Low--Level%20%26%20Hardware-00D2FF?style=for-the-badge&logo=microchip&logoColor=white" alt="Focus" />
 </p>
 
 ---
 
 ### 💫 About Me
 
-I am a **Software Engineering undergraduate** at *The University of Lahore* with a deep obsession for bringing software to life through physical hardware. From optimizing low-level algorithms in **C++** to diagnostic soldering on microcontrollers and building customized gyro peripherals, I love operating at the intersection of bits and solder.
+I am a **Software Engineering undergraduate** at *The University of Lahore (Sgd Campus)* with a strong focus on bridging high-level software logic with physical hardware engineering. From optimizing low-level algorithms in **C++** to diagnostic soldering on microcontrollers and crafting customized input peripherals, I build at the intersection of **bits and solder**.
 
-- 🛠️ **Current Focus:** Building client-side schedulers and optimizing custom software utilities.
-- 👾 **Hobbies:** PC hardware modding, local audio workflows (revisiting local Opus library playback), and diving into tactical/open-world games.
-- ⚡ **Fun Fact:** I once revived a damaged 12V power supply by desoldering and replacing its dual Schottky diode rectifier!
+* 🛠️ **Current Focus:** Client-side architecture planning and high-performance custom C++ utilities.
+* ⚡ **Hardware Modding:** Revived a damaged 12V power supply by desoldering and replacing dual Schottky diode rectifiers; built custom gyro-based control hardware.
+* 🎮 **Interests:** Low-level system performance, high-bitrate offline audio setups, and open-world tactical titles.
 
 ---
 
-### 🛡️ Tech Stack & Skills
+### 🛡️ Tech Stack & Tooling
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <!-- Hardware -->
-  <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32-E34F26?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Core Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Embedded C++](https://img.shields.io/badge/Embedded_C%2B%2B-008080?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Embedded & Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E34F26?style=flat-square&logo=espressif&logoColor=white) ![MPU-6050](https://img.shields.io/badge/MPU--6050_Gyro-4169E1?style=flat-square) ![433MHz RF](https://img.shields.io/badge/RF_433MHz-FF4500?style=flat-square) |
+| **Developer Tools** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
 ### 🚀 Featured Engineering Projects
-
-#### 📈 [CGPA Recovery & Academic Planner](https://github.com/Aliyan-Feroz/cgpa-recovery-planner)
-> A sophisticated, highly optimized C++ CLI application designed to reverse-engineer your academic target milestones. Instead of simple, passive calculation, it features a proactive **GPA Forecasting Engine** and custom algorithms that map out exact semester-by-semester GPA trajectories required to achieve a desired graduating CGPA. 
-* Built with a robust CLI terminal UI, maintaining high performance and optimized memory management by strictly utilizing standard input-output streams.
-* Implements dynamic recovery analysis, offering automated recommendations based on remaining semester credit hours.
-* **Tech Used:** `C++ (Standard Library)`, `Algorithms`, `Terminal UI`
-
-#### 🎮 [DIY Gyro-Based Lightgun](https://github.com/Aliyan-Feroz)
-> A physical hardware gaming input built by direct-pin-pad soldering a USB mouse cable onto an Arduino Nano clone, combined with an **MPU-6050** gyro sensor to play retro on-rail arcade shooters.
-- **Tech Used:** `Arduino`, `MPU-6050 Gyro`, `Diagnostic Soldering`, `C++`
-
-#### 🏍️ [Smart Rider Safety System](https://github.com/Aliyan-Feroz)
-> An integrated twin-Arduino safety model with an ignition interlock system linked wirelessly between a smart helmet and a bike using a **433MHz RF wireless module** alongside ultrasonic proximity sensors.
-- **Tech Used:** `Arduino`, `RF 433MHz`, `Ultrasonic Sensors`, `Embedded C++`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aliyan-Feroz&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" alt="Aliyan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyan-Feroz&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=86400" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-- 💻 **GitHub Profile:** [github.com/Aliyan-Feroz](https://github.com/Aliyan-Feroz)[cite: 1]
-- 🏢 **University:** BS Software Engineering Student @ University of Lahore (UOL)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-Welcome-00F2FE?style=flat-square" alt="Profile Views" />
-</p>
