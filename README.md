@@ -74,13 +74,13 @@ I'm **Aliyan Feroz**, a Software Engineering student at **The University of Laho
 
 <br/>
 
-| Area | Tools &amp; technologies | What I use them for |
-| :--- | :--- | :--- |
-| **Languages** | C++ · C · Java · JavaScript · HTML5 · CSS3 | Algorithms, object-oriented programming, utilities, and interfaces |
-| **Software &amp; Web Dev** | JavaFX · Maven · REST-style integrations · Google Sheets API | Desktop workflows, web utilities, and API-backed data |
-| **Database &amp; Cloud** | SQLite · Google Sheets · Netlify · Vercel | Lightweight local storage, simple managed data, and deployment |
-| **Embedded &amp; Hardware** | Arduino · ESP32 · Arduino Nano · MPU-6050 · 433MHz RF · IR sensors · Ultrasonic sensors | Sensor-driven prototypes, communication, and hardware interaction |
-| **Developer Tools** | Git · GitHub · VS Code · IntelliJ IDEA | Version control, project management, and development workflow |
+| Area                        | Tools &amp; technologies                                                                | What I use them for                                                |
+| :-------------------------- | :-------------------------------------------------------------------------------------- | :----------------------------------------------------------------- |
+| **Languages**               | C++ · C · Java · JavaScript · HTML5 · CSS3                                              | Algorithms, object-oriented programming, utilities, and interfaces |
+| **Software &amp; Web Dev**  | JavaFX · Maven · REST-style integrations · Google Sheets API                            | Desktop workflows, web utilities, and API-backed data              |
+| **Database &amp; Cloud**    | SQLite · Google Sheets · Netlify · Vercel                                               | Lightweight local storage, simple managed data, and deployment     |
+| **Embedded &amp; Hardware** | Arduino · ESP32 · Arduino Nano · MPU-6050 · 433MHz RF · IR sensors · Ultrasonic sensors | Sensor-driven prototypes, communication, and hardware interaction  |
+| **Developer Tools**         | Git · GitHub · VS Code · IntelliJ IDEA                                                  | Version control, project management, and development workflow      |
 
 </details>
 
@@ -149,8 +149,8 @@ A performance-focused **C++ command-line application** that helps students plan 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aliyan-Feroz&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=60A5FA&text_color=E2E8F0&cache_seconds=86400" alt="Aliyan's GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyan-Feroz&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&cache_seconds=86400" alt="Aliyan's most used languages"/>
+<img width="49%" src="https://github-readme-stats-sigma-blond-yq8zud8dne.vercel.app/api?username=Aliyan-Feroz&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=60A5FA&text_color=E2E8F0&cache_seconds=86400" alt="Aliyan's GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats-sigma-blond-yq8zud8dne.vercel.app/api/top-langs/?username=Aliyan-Feroz&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&cache_seconds=86400" alt="Aliyan's most used languages"/>
 
 <br/><br/>
 
@@ -168,7 +168,9 @@ I’m always interested in practical projects around useful software, Java deskt
 
 <div align="center">
 
-**GitHub:** [Aliyan-Feroz](https://github.com/Aliyan-Feroz) &nbsp;|&nbsp; **LinkedIn:** [Aliyan Feroz](https://linkedin.com/in/aliyan-feroz)
+<a href="https://github.com/Aliyan-Feroz"><img src="https://img.shields.io/badge/GitHub-Aliyan--Feroz-0F172A?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub"/></a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://linkedin.com/in/aliyan-feroz"><img src="https://img.shields.io/badge/LinkedIn-Aliyan%20Feroz-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=140&section=footer" alt=""/>
 
