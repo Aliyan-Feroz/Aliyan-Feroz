@@ -1,0 +1,25 @@
+<svg viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0F172A"/><stop offset=".5" stop-color="#172554"/><stop offset="1" stop-color="#0F172A"/></linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="60%"><stop stop-color="#2563EB" stop-opacity=".58"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38BDF8"/><stop offset=".5" stop-color="#93C5FD"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="blur"><animate attributeName="stdDeviation" values="3;7;3" dur="3s" repeatCount="indefinite"/></feGaussianBlur><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="340" fill="url(#background)"/>
+  <rect width="1200" height="340" fill="url(#glow)"><animate attributeName="opacity" values=".5;1;.5" dur="4s" repeatCount="indefinite"/></rect>
+  <g stroke="#38BDF8" stroke-opacity=".32" fill="none" stroke-width="1.5">
+    <path d="M0 65h220l42 42h225" stroke-dasharray="8 11"><animate attributeName="stroke-dashoffset" from="0" to="-190" dur="6s" repeatCount="indefinite"/></path>
+    <path d="M1200 276H950l-42-42H665" stroke-dasharray="8 11"><animate attributeName="stroke-dashoffset" from="0" to="-190" dur="7s" repeatCount="indefinite"/></path>
+    <path d="M0 298h150l42-42h220" stroke-dasharray="6 12"><animate attributeName="stroke-dashoffset" from="0" to="-180" dur="5s" repeatCount="indefinite"/></path>
+  </g>
+  <g fill="#38BDF8"><circle cx="125" cy="315" r="2.5"><animate attributeName="cy" values="320;0" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="7s" repeatCount="indefinite"/></circle><circle cx="345" cy="315" r="2" fill="#93C5FD"><animate attributeName="cy" values="320;0" dur="9s" begin="1.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="9s" begin="1.5s" repeatCount="indefinite"/></circle><circle cx="820" cy="315" r="2.5"><animate attributeName="cy" values="320;0" dur="7.5s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="7.5s" begin="1s" repeatCount="indefinite"/></circle><circle cx="1070" cy="315" r="2" fill="#93C5FD"><animate attributeName="cy" values="320;0" dur="6.5s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="6.5s" begin="3s" repeatCount="indefinite"/></circle></g>
+  <text x="600" y="150" text-anchor="middle" font-family="Trebuchet MS, Verdana, sans-serif" font-size="70" font-weight="900" fill="url(#title)" filter="url(#softGlow)" letter-spacing="4">ALIYAN FEROZ</text>
+  <g font-family="Courier New, monospace" font-size="25" text-anchor="middle" fill="#E2E8F0">
+    <text x="600" y="210">Software Engineering Undergraduate<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.025;.225;.25;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="600" y="210" opacity="0">C++ &amp; Embedded Systems Builder<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.25;.275;.475;.5;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="600" y="210" opacity="0">Hardware Hacker | Practical Problem Solver<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.5;.525;.725;.75;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="600" y="210" opacity="0">Building Smarter, Safer Rides<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.75;.775;.975;1" dur="12s" repeatCount="indefinite"/></text>
+  </g>
+  <text x="600" y="270" text-anchor="middle" font-family="Verdana, sans-serif" font-size="15" fill="#94A3B8" letter-spacing="2">SOFTWARE • EMBEDDED SYSTEMS • HARDWARE</text>
+  <rect y="332" width="1200" height="3" fill="url(#title)" opacity=".75"/>
+</svg>
