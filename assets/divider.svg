@@ -1,8 +1,0 @@
-<svg viewBox="0 0 1200 8" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="base" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0F172A"/><stop offset=".15" stop-color="#38BDF8"/><stop offset=".5" stop-color="#2563EB"/><stop offset=".85" stop-color="#38BDF8"/><stop offset="1" stop-color="#0F172A"/></linearGradient>
-    <linearGradient id="comet" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#93C5FD" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".95"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient>
-  </defs>
-  <rect x="0" y="3" width="1200" height="2" fill="url(#base)" opacity=".62"/>
-  <rect x="-160" y="0" width="160" height="8" fill="url(#comet)"><animate attributeName="x" values="-160;1200" dur="3.2s" repeatCount="indefinite"/></rect>
-</svg>
